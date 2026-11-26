@@ -1,7 +1,7 @@
 - 👋 Yo, I’m @isfarfarabi
-- 👀 I’m interested in dying
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in finance
+- 🌱 I’m currently learning trading
+- 💞️ I’m looking to collaborate on financial project or start ups
 - 📫 Reach me in https://www.facebook.com/isfarfarabi
 
 <!---
